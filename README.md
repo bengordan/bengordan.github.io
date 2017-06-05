@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: Welcome to Ben G's homepage!
+description: 2nd work 
 
 You can use the [editor on GitHub](https://github.com/bengordan/bengordan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
